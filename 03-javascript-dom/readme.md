@@ -25,7 +25,7 @@
 - Add [localStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage) support on the Pokedex by serializing data with the [JSON object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON).
 
 ## Challenge:
-![](https://cdn.dribbble.com/users/478444/screenshots/3467471/attachments/762965/dui_004_calculator.png)
+![](https://cdn-images-1.medium.com/max/800/0*KeTv1DA9IPJ6SI_s.gif)
 
 1. Create a calculator app.
 2. Only numbers and operations must be accepted.
