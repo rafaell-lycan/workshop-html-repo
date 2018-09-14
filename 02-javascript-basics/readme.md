@@ -38,7 +38,7 @@
 ## Exercice 3: Create a Pokemon Battle System
 
 #### Homework:
-- Create a Palindrome
+- Create a [Palindrome](https://en.wikipedia.org/wiki/Palindrome)
 
 #### Homework:
 1. Create a calculator factory that operates with arrays.
