@@ -4,7 +4,7 @@ This repository contains resources from SmartFocus Web Apps 101 course. Here is 
 
 ## Basics
 
-- [1. HTML/CSS Recap](./01-html-css)
+- [1. HTML/CSS](./01-html-css)
 - [2. JavaScript Basics](./02-javascript-basics)
 - [3. The DOM API](./03-javascript-dom)
 - [4. Ajax](./04-javascript-ajax)
