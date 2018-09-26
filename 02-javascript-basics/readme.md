@@ -1,27 +1,21 @@
 # JavaScript Basics Lecture
 
-- Introduction
-- Variables
-- Strings
-- String length
-- Revising Strings
-- Numbers
-- Rounding Numbers
-- Number to String
-- If Statement
-- For Loop
-- Arrays
-- Array Filtering
-- Looping through Arrays
-- Objects
-- Object properties
-- Functions
-- Function arguments
+## Complementary Material
+- [1. Hello World](pages/01-hello-world.md)
+- [2. Data Types](pages/02-data-types.md)
+- [3. Comments](pages/03-comments.md)
+- [4. Variables](pages/04-variables.md)
+- [5. If/Else Statements](pages/05-statements.md)
+- [6. For Loops](pages/06-for-loops.md)
+- [7. Functions](pages/07-functions.md)
+- [8. Arrays](pages/08-arrays.md)
+- [9. Objects](pages/09-objects.md)
 
 #### [Slides](https://speakerdeck.com/arnellebalane/introduction-to-javascript?slide=69)
 
 ## Exercice 1: Create a BMI system with Prompt and Alert.
-![](https://wikimedia.org/api/rest_v1/media/math/render/svg/a25f48e7bcb8270653f7b027e6dce80f0b6fcd90)
+
+![BMI Formula](https://wikimedia.org/api/rest_v1/media/math/render/svg/a25f48e7bcb8270653f7b027e6dce80f0b6fcd90)
 
 #### Rules:
 
