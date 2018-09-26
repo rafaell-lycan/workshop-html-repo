@@ -32,4 +32,4 @@ Now that you know how to create variables, rewrite this code. This time, define 
 
 Is your output the same?
 
-### [Go to Step 5 >>>>](/05-if-statements.md)
+### [Go to Step 5 >>>>](05-statements.md)

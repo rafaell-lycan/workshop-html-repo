@@ -36,4 +36,4 @@ console.log(typeof datatype);
 
 Add some helpful comments to the code you wrote in the last step. Run the code and make sure you haven't broken anything!
 
-### [Go to Step 4 >>>>](/04-variables.md)
+### [Go to Step 4 >>>>](04-variables.md)

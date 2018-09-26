@@ -28,4 +28,4 @@ You also might be wondering why there's a semicolon at the end of the code you w
 
 Try to `console.log()` something different. Try to `console.log()` several things at once. Does it make a difference if you use double or single quote marks? What happens when you get rid of the quote marks? What happens when you `console.log()` just a number without quotes?
 
-### [Go to Step 2 >>>>](/02-data-types.md)
+### [Go to Step 2 >>>>](02-data-types.md)

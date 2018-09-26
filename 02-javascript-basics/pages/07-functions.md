@@ -59,4 +59,4 @@ Run this code, and hopefully you get the right answer!
 
 Write other 2 functions called `subtract` and `multiply` that subtracts or multiplies two numbers together. Both should take two numbers as parameters and return the answer.
 
-### [Go to Step 8 >>>>](/08-arrays.md)
+### [Go to Step 8 >>>>](08-arrays.md)

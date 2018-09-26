@@ -42,4 +42,4 @@ You should see `string` printed to the console. That's because 'Hello world!' is
 
 Now try that three times, once for each data type. Log the `typeof` three different values: `"JavaScript Rocks!"`, `1234` and `false`. You should get different output for each one.
 
-### [Go to Step 3 >>>>](/03-comments.md)
+### [Go to Step 3 >>>>](03-comments.md)

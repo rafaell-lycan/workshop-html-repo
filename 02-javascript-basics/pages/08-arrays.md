@@ -42,4 +42,4 @@ If you're thinking a for loop, you're right. This is the perfect opportunity to 
 
 Try googling to find the answer if you're stuck. Google skills are an essential part of being a developer.
 
-### [Go to Step 9 >>>>](/09-objects.md)
+### [Go to Step 9 >>>>](09-objects.md)

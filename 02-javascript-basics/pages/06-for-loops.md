@@ -46,4 +46,4 @@ Notice the variable `i` is set to `1`, because we want counting to begin at 1. T
 
 Write a for loop that loops over the numbers from 0 to 100, printing only every second number. So it should return `0, 2, 4, 6, 8, 10...`.
 
-### [Go to Step 7 >>>>](/07-functions.md)
+### [Go to Step 7 >>>>](07-functions.md)

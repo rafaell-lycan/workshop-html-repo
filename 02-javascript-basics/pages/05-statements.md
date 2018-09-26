@@ -61,4 +61,4 @@ For this challenge, you might find it useful to use the "modulo" operator, which
 
 An even number will have a remainder of 0 when divided by 2. Read more about the modulo operator [here](http://www.w3schools.com/js/js_operators.asp).
 
-### [Go to Step 6 >>>>](/06-for-loops.md)
+### [Go to Step 6 >>>>](06-for-loops.md)
